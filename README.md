@@ -17,5 +17,5 @@ After prompting the beta testers for their minimum and maximum temperature prefe
 The list was narrowed down to 4 cities in the same country and a travel map was created. 
 ![Pic 3](https://github.com/Baylex/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.PNG)
 
-Makers were added to the travel map
+Makers were added to the map of four cities. 
 ![Pic 4](https://github.com/Baylex/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.PNG)
