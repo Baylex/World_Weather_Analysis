@@ -1,7 +1,17 @@
 # World_Weather_Analysis
-UT Data Boot Camp Module 6: WeatherPy with Python APIs
+WeatherPy with Python APIs
 
-# Overview
+## Main Objective
+1. Perform tasks using new Python libraries and modules.
+2. Retrieve and use data from an API "get" request to a server.
+3. Retrieve and store values from a JSON array.
+4. Use try and except blocks to resolve errors.
+5. Write Python functions.
+6. Create scatter plots using the Matplotlib library, and apply styles and features to a plot.
+7. Perform linear regression, and add regression lines to scatter plots.
+8. Create heatmaps, and add markers using the Google Maps API.
+
+## Overview
 After working on an app, beta testers requested a new feature, weather description, be added to the markers that pop up after clicking on a pin.  The beta testers also wanted to be able to pick their minimum and maximum temperatures for a trip.  From there, four cities were chosen to create an itinerary map with pins and markers.
 
 # Process
