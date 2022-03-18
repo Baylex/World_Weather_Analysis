@@ -3,6 +3,7 @@ WeatherPy with Python APIs
 
 ## Main Objective
 1. Perform tasks using new Python libraries and modules.
+    Pandas, gmaps, requests, numpy, random, matplotlib, timeit, scipy, citipy, datetime, time
 2. Retrieve and use data from an API "get" request to a server.
 3. Retrieve and store values from a JSON array.
 4. Use try and except blocks to resolve errors.
